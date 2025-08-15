@@ -6,7 +6,7 @@ Created with ❤️ by Microsoft Technical Trainers
 
 # <a href="README.md">Home</a> 🏡
 
-![8 seconds delay](https://github.com/user-attachments/assets/7c216923-187e-4e5d-9134-384694a9676b)
+
 
 
 
