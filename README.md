@@ -1,7 +1,6 @@
 
 ![sfc360 (2)](https://github.com/user-attachments/assets/8674a026-cc1e-456d-b18b-b61d9f74462b)
 
-![sfc360 (1)](https://github.com/user-attachments/assets/f56ba8fa-156a-4c5a-a548-7898dc1dfff2)
 
 Created with ❤️ by Microsoft Technical Trainers
 
