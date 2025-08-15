@@ -19,8 +19,6 @@ Created with ❤️ by Microsoft Technical Trainers
 ### 🎥 Watch the Video: Forgetting Curve and Miller's Law
 [![Watch on LinkedIn](https://img.shields.io/badge/Watch%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/posts/neerajtrainer_mttbrainwave-memorymaster-learningmadefun-activity-7319955250482724866-vyxi)
 
-thub.com/user-attachments/assets/14045e8f-fd09-44b62be66
-
 
 
 ## Neuroscience of learning 👩‍🏫
