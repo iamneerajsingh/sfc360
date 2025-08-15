@@ -26,8 +26,6 @@ Created with ❤️ by Microsoft Technical Trainers
 
 
 
-### 🎥 Watch the Video: Forgetting Curve and Miller's Law
-[![Watch on LinkedIn](https://img.shields.io/badge/Watch%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/posts/neerajtrainer_mttbrainwave-memorymaster-learningmadefun-activity-7319955250482724866-vyxi)
 
 
 
@@ -39,6 +37,8 @@ https://www.linkedin.com/posts/neerajtrainer_mttbrainwave-memorymaster-learningm
 
 <img width="1400" height="1000" alt="image" src="https://github.com/user-attachments/assets/14045e8f-fd09-44b6-9d97-45b58262be66" />
 
+### 🎥 Watch the Video: Forgetting Curve and Miller's Law
+[![Watch on LinkedIn](https://img.shields.io/badge/Watch%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/posts/neerajtrainer_mttbrainwave-memorymaster-learningmadefun-activity-7319955250482724866-vyxi)
 
 
 ## [Feedback](https://aka.ms/BrainwaveFeedback) ℹ️
