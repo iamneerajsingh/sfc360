@@ -17,9 +17,12 @@ Created with ❤️ by Microsoft Technical Trainers
 
 
 # <a href="README.md">Copilot : Day in Life Series </a> 🏡
+<img width="1536" height="1024" alt="Designer (19)" src="https://github.com/user-attachments/assets/862881bb-50ce-4599-926a-e308b41e3de1" />
 
 
 # <a href="README.md">Azure Technical Videos </a> 🏡
+
+
 
 # <a href="README.md">Copilot Tips and tricks </a> 🏡
 
