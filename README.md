@@ -32,7 +32,21 @@ Created with ❤️ by Microsoft Technical Trainers
 ## Neuroscience of learning 👩‍🏫
 Anchor research papers and books explaining neuroscience of learning that reinforces the benefits of visual tools in learning.
 
+
+
 ### Forgetting Curve and Millers law
+
+<div style="text-align:center; margin: 20px 0;">
+    <iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/Iifog2N-DMs" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+    </iframe>
+</div>
+
+
 https://www.linkedin.com/posts/neerajtrainer_mttbrainwave-memorymaster-learningmadefun-activity-7319955250482724866-vyxi?utm_source=share&utm_medium=member_desktop&rcm=ACoAACKY7c8BWFjQJz4_RCVom0joDu_SJyJ7Elo
 
 <img width="1400" height="1000" alt="image" src="https://github.com/user-attachments/assets/14045e8f-fd09-44b6-9d97-45b58262be66" />
