@@ -16,6 +16,16 @@ Created with ❤️ by Microsoft Technical Trainers
 </video>
 
 
+# <a href="README.md">Copilot : Day in Life Series </a> 🏡
+
+
+# <a href="README.md">Azure Technical Videos </a> 🏡
+
+# <a href="README.md">Copilot Tips and tricks </a> 🏡
+
+
+
+
 ### 🎥 Watch the Video: Forgetting Curve and Miller's Law
 [![Watch on LinkedIn](https://img.shields.io/badge/Watch%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/posts/neerajtrainer_mttbrainwave-memorymaster-learningmadefun-activity-7319955250482724866-vyxi)
 
